@@ -1,0 +1,23 @@
+{
+  "name": "@acmutd/comet-data-schemas",
+  "version": "0.1.0",
+  "description": "Schemas for the Comet Data Service and Comet Planning",
+  "main": "dist/index.js",
+  "scripts": {
+    "publish": "",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acmutd/comet-data-schemas.git"
+  },
+  "author": "Willie Chalmers III <willie.chalmers@acmutd.co>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/acmutd/comet-data-schemas/issues"
+  },
+  "homepage": "https://github.com/acmutd/comet-data-schemas#readme",
+  "devDependencies": {
+    "typescript": "^4.0.2"
+  }
+}
